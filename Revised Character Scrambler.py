@@ -4,7 +4,7 @@ print( "Character Scrambler - For your convenience, please enter a space after e
 
 print()
 
-print( "Copy here and paste in the line below for special characters and numbers: & [ $ { } ( = * ) + ] ! # @ ^ \  | - _ / ? \' \" ; : % 7 5 3 1 9 0 2 4 6 8")
+print( "Copy here and paste in the line below for special characters and numbers (excluding ~ and `: & [ $ { } ( = * ) + ] ! # @ ^ \  | - _ / ? \' \" ; : % < > 7 5 3 1 9 0 2 4 6 8")
 
 print()
 
@@ -12,7 +12,13 @@ print( "Copy here and paste in the line below for the alphabet: a b c d e f g h 
 
 print()
 
-print( "Copy here and paste in the line below for combined alphabet and special characters: a b c d e f g h i j k l m n o p q r s t u v w x y z & [ $ { } ( = * ) + ] ! # @ ^ \  | - _ / ? \' \" ; : % 7 5 3 1 9 0 2 4 6 8" )
+print( "Copy here and paste in the line below for combined alphabet and special characters (excluding ~ and `): a b c d e f g h i j k l m n o p q r s t u v w x y z & [ $ { } ( = * ) + ] ! # @ ^ \  | - _ / ? \' \" ; : % < > 7 5 3 1 9 0 2 4 6 8" )
+
+print()
+
+print( "Full list of all special characters, capitalized letters, and lowercase letters, excluding ~ and `")
+
+print( "& [ $ { } ( = * ) + ] ! # @ ^ \  | - _ / ? \' \" ; : % < > 7 5 3 1 9 0 2 4 6 8 a b c d e f g h i j k l m n o p q r s t u v w x y z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z")
 
 print()
 
